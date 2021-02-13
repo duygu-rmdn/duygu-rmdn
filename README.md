@@ -2,7 +2,7 @@
 
 ### My name is Duygu and I am student of High School of Mathematics "Academy of Kiril Popov". Welcome to my github profile!
 
-<img height="130" width="410" align="left"  src="https://github-readme-stats.vercel.app/api?username=duygu-rmdn&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=7A47FF&bg_color=151515"><img height="130" width="400" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygu-rmdn&layout=compact&theme=tokyonight">
+<img height="130" width="410" align="left"  src="https://github-readme-stats.vercel.app/api?username=duygu-rmdn&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=151515"><img height="130" width="400" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygu-rmdn&layout=compact&theme=tokyonight">
 
 ### Connect with me here:
  
