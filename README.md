@@ -3,3 +3,4 @@
 ### My name is Duygu and I am student of High School of Mathematics "Academy of Kiril Popov". Welcome to my github profile!
 <img aling="left" alt="Duygu's GitHub Status" scr ="https://github-readme-status.vercel.app/api?username=duygu-rmdn&count_private=true&theme=tokyonight&hide=prs&show_icons=true">
 
+<img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=duygu-rmdn&count_private=true&theme=tokyonight&hide=prs&show_icons=true" style="max-width:100%;">
