@@ -8,8 +8,6 @@
  
 
 [<img align="left" alt="duygu_rmdn | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="duygu_rmdn | Gmail" width="22px" src=" http://pngimg.com/uploads/gmail_logo/gmail_logo_PNG5.png" />][Gmail]
-
 
 [instagram]: https://www.instagram.com/duygu_rmdn
-[Gmail]: mailto:duygumetin99@gmail.com
+
