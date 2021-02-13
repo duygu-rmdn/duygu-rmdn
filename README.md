@@ -4,3 +4,5 @@
 
 <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=duygu-rmdn&count_private=true&theme=tokyonight&hide=prs&show_icons=true" style="max-width:100%;">
 <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygu-rmdn&layout=compact&theme=tokyonight" style="max-width:100%;">
+
+<img align="left" alt="boretobg's GitHub Stats" src="https://camo.githubusercontent.com/10b0a84……653d746…" data-canonical-src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" style="max-width:100%;">
