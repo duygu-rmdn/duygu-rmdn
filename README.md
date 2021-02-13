@@ -3,7 +3,6 @@
 ### My name is Duygu and I am student of High School of Mathematics "Academy of Kiril Popov". Welcome to my github profile!
 
 <img height="130" width="410" align="left"  src="https://github-readme-stats.vercel.app/api?username=duygu-rmdn&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27">
-<img height="130" width="400" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=duygu-rmdn&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27">
 
 ### Connect with me here:
  
